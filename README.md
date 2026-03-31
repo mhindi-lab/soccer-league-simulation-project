@@ -1,3 +1,5 @@
+CS 1 Group 3
+
 Soccer League Simulation Project
 
 Table of Contents
